@@ -1,10 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/LuchoTurtle/landim-website">
-    <img width=250px src="https://user-images.githubusercontent.com/17494745/218596269-546e2fe7-f666-4e36-a4fc-62a3577c2031.png" alt="HQ Logo">
-  </a>
-  
+<p align="center"> 
+  <img width=250px src="https://user-images.githubusercontent.com/17494745/218596741-d23aa20e-18e7-4dcf-869b-2bf1aa117a2e.png" alt="HQ Logo">
 
   <h3 align="center">Headquarters</h3>
 
